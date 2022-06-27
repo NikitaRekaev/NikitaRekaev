@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 👋 I'm Nikita Rekaev.
 - 👀 I’m interested in iOS dev.
 - 🌱 I’m currently learning Swift.
 
